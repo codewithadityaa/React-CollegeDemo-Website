@@ -36,12 +36,13 @@ const Contact = () => {
     return (
         <div className='contact'>
             <div className="contact-col">
+                <h2>P.D.A. COLLEGE OF ENGINEERING</h2>
                 <h3>Send us a message <img src={msg_icon} alt="" /></h3>
                 <p>Feel free to reach out through contact form or find our contact information below. Your feedback, questions, and suggestions are important to us as we strive to provide exceptional service to our university community.</p>
                 <ul>
-                    <li><img src={mail_icon} alt="" />Contact@GreatStack.dev</li>
-                    <li><img src={phone_icon} alt="" />+1 123-456-7890</li>
-                    <li><img src={location_icon} alt="" />77 Massachusetts Ave, Cambridge<br /> MA 02139, United States</li>
+                    <li><img src={mail_icon} alt="" />Contact@pdaengg.com</li>
+                    <li><img src={phone_icon} alt="" />08472-22****</li>
+                    <li><img src={location_icon} alt="" />Aiwan-E-Shahi Area, Kalaburagi,<br/> Karnataka-585102.</li>
                 </ul>
             </div>
             <div className="contact-col">
